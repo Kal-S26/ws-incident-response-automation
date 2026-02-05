@@ -1,0 +1,12 @@
+{
+  "detail-type": "GuardDuty Finding",
+  "source": "custom.guardduty",
+  "account": "111111111111",
+  "region": "us-east-1",
+  "detail": {
+    "type": "Recon:EC2/PortProbeUnprotectedPort",
+    "severity": 7.2,
+    "title": "Simulated GuardDuty finding",
+    "description": "Testing incident response automation"
+  }
+}
